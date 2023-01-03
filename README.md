@@ -1,4 +1,4 @@
-### Hi there 👋, (**I'am Tanvir Mahtab**)
+### Hi there 👋, **I'am Tanvir Mahtab**
 #### Flutter Developer | Mobile Application Developer
 
 I am very Passionate mobile application developer in Bangladesh . I love to learn and build something new, productive, innovative and creative.
